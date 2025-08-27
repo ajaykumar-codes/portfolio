@@ -37,7 +37,7 @@ function Hero() {
           <br />
           Kumar
         </h1>
-        <h2>Web Developer</h2>
+        <h2>Software Engineer</h2>
         <span>
           <a href="https://github.com/ajaykumar-codes" target="_blank">
             <img src={githubIcon} alt="Github icon" />
@@ -47,7 +47,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern web apps
+          Passionate software engineer focused on building innovative solutions and writing clean, efficient code to solve complex problems 
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
