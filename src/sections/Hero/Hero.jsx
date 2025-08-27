@@ -47,7 +47,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          Passionate software engineer focused on building innovative solutions and writing clean, efficient code to solve complex problems 
+          Software engineer driven by a passion for coding, innovation, and turning ideas into reliable software solutions 
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
